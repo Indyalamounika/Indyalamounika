@@ -1,0 +1,18 @@
+# Ensure YAML files are counted correctly
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+
+# Ensure Dockerfiles are detected
+Dockerfile* linguist-language=Dockerfile
+
+# Ensure Shell scripts are detected
+*.sh linguist-language=Shell
+
+# Ensure Terraform (HCL) is properly shown
+*.tf linguist-language=HCL
+
+# Ensure Jenkinsfiles (Groovy) are counted
+Jenkinsfile* linguist-language=Groovy
+*.groovy linguist-language=Groovy
