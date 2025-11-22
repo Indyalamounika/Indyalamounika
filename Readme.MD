@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Banner.png" alt="GitHub Banner" width="800"/>
-</div> -->
+<div align="center">
+  <img src="https://github.com/Indyalamounika/Indyalamounika/blob/main/Banner.png" alt="GitHub Banner" width="800"/>
+</div>
 
 # 👋 Hi, I'm Mounika Indyala
 
