@@ -2,7 +2,7 @@
   <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Banner.png" alt="GitHub Banner" width="800"/>
 </div> -->
 
-# 👋 Hi, I'm Algot Sarika
+# 👋 Hi, I'm Mounika Indyala
 
 ### DevOps Engineer @ Techsource Emerging info Technologies pvt.ltd 
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
