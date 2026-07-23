@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mounika Indyala
 
-### DevOps Engineer @ Techsource Emerging info Technologies pvt.ltd 
+### Cloud DevOps Engineer @ XIMAX AUTOMATION PRIVATE LIMITED 
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/mounika-reddy-indyala-b92b74373/))
@@ -82,7 +82,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **5 years of experience** in inf
 
 ### 💼 Career Snapshot
 
-- 🏢 **Techsource Emerging info Technologies pvt.ltd** – *DevOps & AWS Cloud Engineer (1 Year)*
+- 🏢 **XIMAX AUTOMATION PRIVATE LIMITED** – *DevOps & AWS Cloud Engineer (1 Year 8 Months)*
 
   Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
 
