@@ -8,7 +8,7 @@
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/mounika-reddy-indyala-b92b74373/))
-[![Gmail](https://img.shields.io/badge/Email-mounikaindyala9@gmail.com-red?logo=gmail&style=flat)](mailto:mounikaindyala9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-indyalamouni@gmail.com-red?logo=gmail&style=flat)](mailto:indyalamouni@gmail.com)
 
 ---
 
