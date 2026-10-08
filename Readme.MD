@@ -4,11 +4,11 @@
 
 # 👋 Hi, I'm Mounika Indyala
 
-### Cloud DevOps Engineer @ XIMAX AUTOMATION PRIVATE LIMITED 
+### Cloud DevOps Engineer @ Optiwist Technologies Pvt Ltd 
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/mounika-reddy-indyala-b92b74373/))
-[![Gmail](https://img.shields.io/badge/Email-indyalamouni@gmail.com-red?logo=gmail&style=flat)](mailto:indyalamouni@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-vedamounika18@gmail.com-red?logo=gmail&style=flat)](mailto:vedamounika18@gmail.com)
 
 ---
 
@@ -82,7 +82,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **5 years of experience** in inf
 
 ### 💼 Career Snapshot
 
-- 🏢 **XIMAX AUTOMATION PRIVATE LIMITED** – *DevOps & AWS Cloud Engineer (1 Year 8 Months)*
+- 🏢 **Optiwist Technologies Pvt Ltd** – *DevOps & AWS Cloud Engineer (1 Year 11 Months)*
 
   Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
 
